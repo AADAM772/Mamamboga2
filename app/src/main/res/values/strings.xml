@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Fresh Grocer</string>
+    <string name="title_vegetables">Vegetables</string>
+    <string name="title_fruits">Fruits</string>
+    <string name="title_cart">My Cart</string>
+    <string name="currency_format">KSh %,d</string>
+    <string name="price_per_unit">KSh %1$,d / %2$s</string>
+    <string name="add_to_cart">Add to cart</string>
+    <string name="in_cart_count">In cart: %d</string>
+    <string name="added_to_cart">%s added to cart</string>
+    <string name="view_cart">View cart</string>
+    <string name="decrease">Decrease quantity</string>
+    <string name="increase">Increase quantity</string>
+    <string name="remove">Remove</string>
+    <string name="total">Total</string>
+    <string name="checkout">Checkout</string>
+    <string name="cart_empty">Your cart is empty.\nAdd some vegetables or fruits to get started.</string>
+    <string name="confirm_order_title">Confirm order</string>
+    <string name="confirm_order_message">You are buying %1$d item(s) for a total of %2$s. Place this order?</string>
+    <string name="place_order">Place order</string>
+    <string name="cancel">Cancel</string>
+    <string name="order_placed_title">Order placed</string>
+    <string name="order_placed_message">Thank you! Your order #%1$d for %2$s has been received.</string>
+    <string name="continue_shopping">Continue shopping</string>
+</resources>
